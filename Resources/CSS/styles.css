@@ -58,6 +58,7 @@ main, footer {
 header img {
   height: auto;
   margin: .25rem .75rem;
+  object-fit: cover;
 }
 
 header nav {
