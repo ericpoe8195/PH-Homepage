@@ -56,7 +56,7 @@ main, footer {
 }
 
 header img {
-  height: 20px;
+  height: 65px;
   margin: auto .75rem;
   object-fit: cover;
   width: auto;
@@ -64,10 +64,17 @@ header img {
 
 header nav {
   margin: auto 1.5rem;
+  display: inline-flex;
+  align-items: center;
+  align-content: center;
+}
+
+header nav ul {
+  margin: auto 0;
 }
 
 header nav li {
-  display: inline-block;
+  display: inline-flex;
   margin-right: 1.5rem;
   font-size: 1.5rem;
 }
