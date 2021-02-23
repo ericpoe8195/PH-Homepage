@@ -59,6 +59,7 @@ header img {
   height: auto;
   margin: .25rem .75rem;
   object-fit: cover;
+  width: auto;
 }
 
 header nav {
