@@ -1,7 +1,9 @@
 /* Debug */
+/*
 * {
-/*  border: 1px solid red; */
+  border: 1px solid red;
 }
+*/
 
 /* Universal Styles */
 * {
@@ -29,10 +31,6 @@ h2 {
 h3, h4, h5, p {
   margin-top: 1rem;
   color: #ddd;
-}
-
-a {
-  padding-top: 83px;
 }
 
 /* Main */
